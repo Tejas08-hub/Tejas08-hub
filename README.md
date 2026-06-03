@@ -1,32 +1,32 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0088FF,100:00C2FF&height=200&section=header&text=Tejas%20K&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=VLSI%20Engineer%20%7C%20RTL%20%7C%20Physical%20Design%20%7C%20FPGA&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,60:0a3d62,100:1a6fa8&height=220&section=header&text=TEJAS%20K&fontSize=75&fontColor=e0f2fe&fontAlignY=38&fontStyle=bold&desc=VLSI%20%E2%80%A2%20RTL%20Design%20%E2%80%A2%20Physical%20Design%20%E2%80%A2%20FPGA&descAlignY=60&descSize=17&descColor=7dd3fc&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=⚡+Electronics+%26+Communication+Engineering;🔬+Aspiring+VLSI+%2F+ASIC+Design+Engineer;📐+RTL+Design+%7C+Physical+Design+%7C+FPGA;🛠️+Verilog+%7C+Cadence+%7C+Vivado;🚀+Building+the+Future%2C+One+Transistor+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=⚡+Electronics+%26+Communication+Engineering;🔬+Aspiring+VLSI+%2F+ASIC+Design+Engineer;📐+RTL+%7C+Physical+Design+%7C+FPGA+Development;🛠️+Verilog+%7C+Cadence+Virtuoso+%7C+Xilinx+Vivado;🚀+Building+the+Future%2C+One+Transistor+at+a+Time" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/tejas-k-3038722a2">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Tejas%20K-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
+
+<br/>
 
 ---
 
 ## 👨‍💻 About Me
 
 ```verilog
-module Tejas (
+module Tejas_K (
   input  wire  passion,
   input  wire  curiosity,
   output reg   innovation
 );
-  // Electronics & Communication Engineering Student
-  // Passionate about VLSI, Semiconductors & Digital Systems
-  // Focused on RTL → Physical Design → Silicon
+  // 🎓 B.E. Electronics & Communication Engineering
+  // 🔬 VLSI | Semiconductor Technology | Digital Systems
+  // 🎯 RTL → Physical Design → Silicon
 
   always @(posedge passion) begin
     innovation <= curiosity & hard_work & consistency;
@@ -35,12 +35,16 @@ module Tejas (
 endmodule
 ```
 
-- 🎓 **B.E. in Electronics and Communication Engineering**
-- 🔬 Passionate about **VLSI Design**, **Semiconductor Technology**, and **Digital Systems**
-- ⚡ Deep interest in **RTL Design**, **Physical Design**, **FPGA Development**, and **ASIC Flows**
-- 💻 Hands-on with **Verilog HDL**, **Cadence Virtuoso**, and **Xilinx Vivado**
-- 🎯 Actively targeting roles in the **VLSI & Semiconductor Industry**
-- 📝 Published researcher in **FPGA-based communication systems**
+<br/>
+
+| | |
+|---|---|
+| 🎓 | **B.E. in Electronics and Communication Engineering** |
+| 🔬 | Passionate about **VLSI Design**, **Semiconductor Technology** & **Digital Systems** |
+| ⚡ | Deep focus on **RTL Design**, **Physical Design**, **FPGA** & **ASIC Flows** |
+| 🛠️ | Hands-on with **Verilog HDL**, **Cadence Virtuoso** & **Xilinx Vivado** |
+| 🎯 | Targeting roles in the **VLSI & Semiconductor Industry** |
+| 📝 | **Published researcher** in FPGA-based communication systems |
 
 ---
 
@@ -50,177 +54,191 @@ endmodule
 
 ### ⚙️ Hardware Design & VLSI
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/Verilog-FF6F00?style=flat-square&logoColor=white"/><br/>
-<sub><b>Verilog HDL</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/RTL-0088CC?style=flat-square"/><br/>
-<sub><b>RTL Design</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/Physical-8E44AD?style=flat-square"/><br/>
-<sub><b>Physical Design</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/VLSI-27AE60?style=flat-square"/><br/>
-<sub><b>VLSI Design</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/FPGA-E74C3C?style=flat-square"/><br/>
-<sub><b>FPGA Dev</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/CMOS-16A085?style=flat-square"/><br/>
-<sub><b>CMOS Design</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/Digital-F39C12?style=flat-square"/><br/>
-<sub><b>Digital Electronics</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/ASIC-C0392B?style=flat-square"/><br/>
-<sub><b>ASIC Design</b></sub>
-</td>
-</tr>
-</table>
+<div align="center">
+
+| 🟠 Verilog HDL | 🔵 RTL Design | 🟣 Physical Design | 🟢 VLSI Design |
+|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/-FF6F00?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/-0369a1?style=flat-square) | ![](https://img.shields.io/badge/-7c3aed?style=flat-square) | ![](https://img.shields.io/badge/-16a34a?style=flat-square) |
+
+| 🔴 FPGA Dev | 🩵 CMOS Design | 🟡 Digital Electronics | ⚫ ASIC Design |
+|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/-dc2626?style=flat-square) | ![](https://img.shields.io/badge/-0d9488?style=flat-square) | ![](https://img.shields.io/badge/-d97706?style=flat-square) | ![](https://img.shields.io/badge/-1e293b?style=flat-square) |
+
+</div>
 
 <br/>
 
 ### 🧰 EDA & Design Tools
 
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/Cadence-1E90FF?style=flat-square"/><br/>
-<sub><b>Cadence Virtuoso</b></sub><br/>
-<sub>Schematic · Layout · Simulation</sub>
+<td align="center" width="200">
+<br/>
+<img src="https://img.shields.io/badge/Cadence_Virtuoso-0369a1?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<code>Schematic · Layout · Simulation</code>
+<br/><br/>
 </td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/Xilinx-C2185B?style=flat-square"/><br/>
-<sub><b>Xilinx Vivado</b></sub><br/>
-<sub>Synthesis · Implementation · Bitstream</sub>
+<td align="center" width="200">
+<br/>
+<img src="https://img.shields.io/badge/Xilinx_Vivado-be185d?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<code>Synthesis · Implementation · Bitstream</code>
+<br/><br/>
 </td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/MATLAB-FF9800?style=flat-square"/><br/>
-<sub><b>MATLAB</b></sub><br/>
-<sub>Signal Processing · Simulation</sub>
+<td align="center" width="200">
+<br/>
+<img src="https://img.shields.io/badge/MATLAB-d97706?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<code>Signal Processing · Simulation</code>
+<br/><br/>
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
 ### 💻 Programming
 
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/><br/>
-<sub><b>C</b></sub><br/>
-<sub>Embedded · Systems Programming</sub>
+<td align="center" width="260">
+<br/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<br/><br/>
+<code>Embedded · Systems Programming</code>
+<br/><br/>
 </td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
-<sub><b>Python</b></sub><br/>
-<sub>Scripting · Automation</sub>
+<td align="center" width="260">
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br/><br/>
+<code>Scripting · Automation · EDA Scripts</code>
+<br/><br/>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="33%">
-
-### 🥈 NPTEL — Silver Elite
-**Digital Design with Verilog**
-📊 Score: **78%**
-*Nationally recognized certification*
-
+<br/>
+<h3>🥈 NPTEL</h3>
+<img src="https://img.shields.io/badge/Silver_Elite-f59e0b?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<b>Digital Design with Verilog</b><br/>
+<sub>📊 Score: <b>78%</b> · Nationally Recognized</sub>
+<br/><br/>
 </td>
 <td align="center" width="33%">
-
-### 🥉 CMTI Hackathon
-**3rd Runner-Up**
-📍 *KANASU Bee House*
-Hybrid Acoustic-Vision AI Platform for Smart Apiculture
-
+<br/>
+<h3>🥉 CMTI Hackathon</h3>
+<img src="https://img.shields.io/badge/3rd_Runner--Up-cd7f32?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<b>KANASU Bee House</b><br/>
+<sub>Hybrid Acoustic-Vision AI Platform<br/>for Smart Apiculture</sub>
+<br/><br/>
 </td>
 <td align="center" width="33%">
-
-### 🥉 CMRIT Hackathon
-**3rd Place**
-📍 *Smart Bee Hive*
-Monitoring System with IoT Integration
-
+<br/>
+<h3>🥉 CMRIT Hackathon</h3>
+<img src="https://img.shields.io/badge/3rd_Place-cd7f32?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<b>Smart Bee Hive</b><br/>
+<sub>Monitoring System<br/>with IoT Integration</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## 📚 Research Publication
 
+<div align="center">
+
 <table>
 <tr>
 <td>
+<br/>
 
 ### 📄 FPGA Implementation of I²C Master Controller with Interrupt Capability Feature
-**Published in:** *International Journal of Electronic Device and Networking*
 
-| Aspect | Details |
-|--------|---------|
-| 🔧 Platform | FPGA — Xilinx Vivado |
+> **Published in:** *International Journal of Electronic Device and Networking*
+
+<br/>
+
+| 🔧 Platform | FPGA via Xilinx Vivado |
+|---|---|
 | 💻 Language | Verilog HDL |
 | 🏗️ Architecture | Interrupt-driven communication |
 | ✅ Verification | Functional simulation & hardware validation |
 
+<br/>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<br/>
+
 ### 🔹 FPGA-Based I²C Master Controller
-> *RTL design with interrupt-driven architecture, deployed on FPGA*
+> *RTL design with interrupt-driven architecture, deployed and validated on FPGA hardware*
 
-- ✅ Designed and implemented in **Verilog HDL**
-- ✅ **Interrupt-driven** communication architecture
-- ✅ FPGA deployment using **Xilinx Vivado**
-- ✅ Functional verification, simulation & hardware testing
-- 📄 **Published research paper** based on this project
+- ✅ Designed end-to-end in **Verilog HDL**
+- ✅ Custom **interrupt-driven** communication architecture
+- ✅ FPGA deployment & bitstream generation via **Xilinx Vivado**
+- ✅ Full simulation, functional verification & hardware testing
+- 📄 **Research paper published** based on this work
 
----
+<br/>
 
 ### 🔹 TSPC Flip-Flop Design
-> *Transistor-level CMOS implementation with timing and power analysis*
+> *Transistor-level CMOS implementation with timing and power analysis in Cadence*
 
-- ✅ **True Single Phase Clock (TSPC)** Flip-Flop
-- ✅ CMOS transistor-level layout and schematic
-- ✅ Timing, power, and performance analysis
-- ✅ Designed using **Cadence Virtuoso**
+- ✅ **True Single Phase Clock (TSPC)** Flip-Flop architecture
+- ✅ CMOS transistor-level schematic & layout
+- ✅ Timing, power, and performance characterization
+- ✅ Full design flow in **Cadence Virtuoso**
 
----
+<br/>
 
 ### 🔹 Digital Design Portfolio
-> *A collection of fundamental and advanced RTL designs*
+> *RTL implementations spanning combinational and sequential logic*
 
-| Project | Type |
-|---------|------|
-| Finite State Machines (FSM) | Sequential Logic |
+<div align="center">
+
+| Project | Domain |
+|:---|:---:|
+| Finite State Machines (Mealy & Moore) | Sequential Logic |
 | Sequence Detectors | RTL / Verilog |
-| Counters & Registers | Sequential Logic |
-| Shift Registers | RTL / Verilog |
+| Synchronous Counters & Registers | Sequential Logic |
+| Shift Registers (SISO, SIPO, PISO, PIPO) | RTL / Verilog |
 | Combinational Logic Circuits | Digital Design |
 | Sequential Logic Circuits | Digital Design |
+
+</div>
 
 ---
 
@@ -228,29 +246,39 @@ Monitoring System with IoT Integration
 
 ```
 Physical Design Flow
-├── 📐 Floorplanning
-├── 📍 Placement & Routing
-├── 🌳 Clock Tree Synthesis (CTS)
-├── ⏱️  Static Timing Analysis (STA)
-├── 🔋 Low Power VLSI Design
-└── 🧬 Advanced CMOS Design Techniques
+├── 📐  Floorplanning
+├── 📍  Placement & Routing
+├── 🌳  Clock Tree Synthesis (CTS)
+├── ⏱️   Static Timing Analysis (STA)
+├── 🔋  Low Power VLSI Design
+└── 🧬  Advanced CMOS Design Techniques
 ```
 
 ---
 
 ## 🎯 Career Objective
 
-> *"Aspiring VLSI Engineer with strong foundations in Digital Electronics, Verilog HDL, FPGA Design, and CMOS Circuits. Passionate about RTL Design, Physical Design, and Semiconductor Technologies — with a goal of contributing to next-generation chip design and innovation."*
+<div align="center">
+
+> *"Aspiring VLSI Engineer with strong foundations in Digital Electronics, Verilog HDL,*
+> *FPGA Design, and CMOS Circuits. Passionate about RTL Design, Physical Design,*
+> *and Semiconductor Technologies — with a goal of contributing to*
+> *next-generation chip design and innovation."*
+
+</div>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
+<br/>
 
 <a href="https://www.linkedin.com/in/tejas-k-3038722a2">
-  <img src="https://img.shields.io/badge/LinkedIn-Tejas_K-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Tejas%20K-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br/><br/>
 
 </div>
 
@@ -258,6 +286,6 @@ Physical Design Flow
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0088FF,100:0D1117&height=120&section=footer&text=Building+the+Future%2C+One+Transistor+at+a+Time+✨&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fa8,40:0a3d62,70:0d1b2a,100:0a0a0f&height=130&section=footer&text=Building+the+Future%2C+One+Transistor+at+a+Time+%E2%9A%A1&fontSize=15&fontColor=7dd3fc&fontAlignY=65" width="100%"/>
 
 </div>
