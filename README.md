@@ -1,99 +1,133 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 
-<h3 align="center">Aspiring VLSI Engineer | RTL Design | Physical Design</h3>
+<h3 align="center">🚀 Aspiring VLSI Engineer | RTL Design | Physical Design | FPGA Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Electronics+and+Communication+Engineering+Student;Aspiring+VLSI+Engineer;RTL+Design+%7C+Physical+Design;Verilog+%7C+Digital+Electronics+%7C+Cadence;Always+Learning+and+Building!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Electronics+and+Communication+Engineering+Student;Aspiring+VLSI+Engineer;RTL+Design+%7C+Physical+Design;Verilog+%7C+FPGA+Development;Cadence+%7C+Vivado+%7C+Digital+Design;Building+the+Future+One+Transistor+at+a+Time" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tejas08-hub&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-🎓 Electronics and Communication Engineering Student (6th Semester)
+🎓 Electronics and Communication Engineering Student
 
-🔬 Passionate about VLSI Design and Semiconductor Technology
+🔬 Passionate about Semiconductor Technology & VLSI Design
 
-💻 Interested in RTL Design, Physical Design and Digital IC Design
+⚡ Interested in RTL Design, Physical Design and FPGA Development
 
-📚 Currently learning Advanced VLSI Design Flows
+💻 Skilled in Verilog HDL, Digital Design and Hardware Verification
 
-🎯 Looking for VLSI Internship Opportunities
+🚀 Exploring ASIC Design Flows and Industry Tools
+
+🎯 Seeking VLSI Internship Opportunities
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
 ### Hardware Design
-![Verilog](https://img.shields.io/badge/Verilog-blue?style=for-the-badge)
-![Digital Design](https://img.shields.io/badge/Digital%20Design-green?style=for-the-badge)
-![RTL Design](https://img.shields.io/badge/RTL%20Design-orange?style=for-the-badge)
-![Physical Design](https://img.shields.io/badge/Physical%20Design-red?style=for-the-badge)
+
+<p>
+<img src="https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RTL%20Design-0088CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Physical%20Design-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VLSI-27AE60?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FPGA-E74C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Electronics-F39C12?style=for-the-badge"/>
+</p>
 
 ### Tools
-![Cadence](https://img.shields.io/badge/Cadence-purple?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-darkblue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge)
+
+<p>
+<img src="https://img.shields.io/badge/Cadence-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-C2185B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MATLAB-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
 
 ### Programming
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
 ### 🔹 FPGA-Based I²C Master Controller
-- Implemented in Verilog HDL
-- Interrupt-driven communication
-- FPGA deployment and verification
+- Designed and implemented in Verilog HDL
+- Interrupt-driven communication architecture
+- FPGA deployment and validation
 
 ### 🔹 TSPC Flip-Flop Design
 - True Single Phase Clock Flip-Flop
-- CMOS transistor-level implementation
-- Timing and power analysis
+- Transistor-level CMOS implementation
+- Timing and Power Analysis
 
 ### 🔹 Digital Design Projects
 - Counters
 - FSM Design
 - Shift Registers
-- Sequential Circuits
+- Sequence Detectors
+- Combinational & Sequential Circuits
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Physical Design Flow
-- Static Timing Analysis (STA)
-- Floorplanning & Placement
-- Clock Tree Synthesis (CTS)
-- Semiconductor Industry Practices
+✅ Physical Design Flow
+
+✅ Static Timing Analysis (STA)
+
+✅ Floorplanning
+
+✅ Placement & Routing
+
+✅ Clock Tree Synthesis (CTS)
+
+✅ FPGA Design using Vivado
 
 ---
 
-## 📊 GitHub Statistics
+# 📈 GitHub Analytics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tejas08-hub&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas08-hub&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejas08-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas08-hub&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas08-hub&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas08-hub&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tejas08-hub&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tejas08-hub&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas08-hub&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tejas-k-3038722a2">
@@ -104,7 +138,5 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tejas08-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+✨ <b>"Building the Future, One Transistor at a Time"</b> ✨
 </p>
-
-<h3 align="center">✨ Building the future, one transistor at a time ✨</h3>
