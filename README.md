@@ -8,9 +8,6 @@
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-<img src="https://komarev.com/ghpvc/?username=Tejas08-hub&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
-&nbsp;
 <a href="https://www.linkedin.com/in/tejas-k-3038722a2">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -49,35 +46,89 @@ endmodule
 
 ## 🛠️ Skills & Tools
 
+<br/>
+
 ### ⚙️ Hardware Design & VLSI
 
-<p>
-<img src="https://img.shields.io/badge/Verilog_HDL-FF6F00?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/RTL_Design-0088CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Physical_Design-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VLSI_Design-27AE60?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FPGA_Development-E74C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CMOS_Design-16A085?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Digital_Electronics-F39C12?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ASIC_Design-C0392B?style=for-the-badge"/>
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Verilog-FF6F00?style=flat-square&logoColor=white"/><br/>
+<sub><b>Verilog HDL</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/RTL-0088CC?style=flat-square"/><br/>
+<sub><b>RTL Design</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Physical-8E44AD?style=flat-square"/><br/>
+<sub><b>Physical Design</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/VLSI-27AE60?style=flat-square"/><br/>
+<sub><b>VLSI Design</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/FPGA-E74C3C?style=flat-square"/><br/>
+<sub><b>FPGA Dev</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/CMOS-16A085?style=flat-square"/><br/>
+<sub><b>CMOS Design</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Digital-F39C12?style=flat-square"/><br/>
+<sub><b>Digital Electronics</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/ASIC-C0392B?style=flat-square"/><br/>
+<sub><b>ASIC Design</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
 
 ### 🧰 EDA & Design Tools
 
-<p>
-<img src="https://img.shields.io/badge/Cadence_Virtuoso-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Xilinx_Vivado-C2185B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MATLAB-FF9800?style=for-the-badge"/>
-</p>
+<table>
+<tr>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/Cadence-1E90FF?style=flat-square"/><br/>
+<sub><b>Cadence Virtuoso</b></sub><br/>
+<sub>Schematic · Layout · Simulation</sub>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/Xilinx-C2185B?style=flat-square"/><br/>
+<sub><b>Xilinx Vivado</b></sub><br/>
+<sub>Synthesis · Implementation · Bitstream</sub>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/MATLAB-FF9800?style=flat-square"/><br/>
+<sub><b>MATLAB</b></sub><br/>
+<sub>Signal Processing · Simulation</sub>
+</td>
+</tr>
+</table>
 
-### 💻 Programming & Version Control
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### 💻 Programming
+
+<table>
+<tr>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/><br/>
+<sub><b>C</b></sub><br/>
+<sub>Embedded · Systems Programming</sub>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<sub><b>Python</b></sub><br/>
+<sub>Scripting · Automation</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -187,22 +238,6 @@ Physical Design Flow
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tejas08-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas08-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" height="160"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas08-hub&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=FF6F00&currStreakLabel=00C2FF" />
-
-</div>
-
----
-
 ## 🎯 Career Objective
 
 > *"Aspiring VLSI Engineer with strong foundations in Digital Electronics, Verilog HDL, FPGA Design, and CMOS Circuits. Passionate about RTL Design, Physical Design, and Semiconductor Technologies — with a goal of contributing to next-generation chip design and innovation."*
@@ -215,10 +250,6 @@ Physical Design Flow
 
 <a href="https://www.linkedin.com/in/tejas-k-3038722a2">
   <img src="https://img.shields.io/badge/LinkedIn-Tejas_K-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Tejas08-hub">
-  <img src="https://img.shields.io/badge/GitHub-Tejas08--hub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
